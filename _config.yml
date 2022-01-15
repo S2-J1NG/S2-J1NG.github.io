@@ -1,0 +1,30 @@
+title: 전산일지
+author: soojin
+  email: shooj2021@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  일단 시작하는 개발자 이수진의 전산일지
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    github:  https://github.com/S2-J1NG
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jemoji
+- jekyll-sitemap
+ - jekyll-seo-tag
