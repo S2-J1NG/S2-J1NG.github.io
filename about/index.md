@@ -7,7 +7,6 @@ permalink: /about/
 <div class="loading-animation">
     <div class="about">
         <div class="section">
-            <div class="title index">01</div>
             <div class="content">
                 <h1 class="subtitle">電算日誌_전산일지</h1>
                 <ul class="culture">
@@ -16,10 +15,8 @@ permalink: /about/
                     <li>그래서 아주 작고 사소한 일이라도 개발과 관련된 내용을 기록합니다.</li>
                     <li>개발 지식과 관련된 피드백은 언제나 대!환영 입니다. </li>
                 </ul>
-            </div>
         </div>
         <div class="section">
-            <div class="title index">02</div>
             <div class="content">
                 <h1 class="subtitle">履歷書_이력서</h1>
                 <ul class="environment">
@@ -27,5 +24,4 @@ permalink: /about/
                 </ul>
             </div>
         </div>
-    </div>
 </div>
