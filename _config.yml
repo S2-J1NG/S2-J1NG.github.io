@@ -3,7 +3,7 @@ author:
   name: 이수진
   email: shooj2021@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  개발의 시작과 끝, 모두를 기록하고자 합니다.
+  개발의 시작과 끝을 기록합니다.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
